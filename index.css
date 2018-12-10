@@ -1,0 +1,47 @@
+body{
+    background: black;
+    margin:300px 300px 400px 400px;
+}
+
+.entradas{
+    padding:10px 10px;
+    font-size:15px;
+    font-family: "amita regular", cursive, sans-serif;
+    color:gray;
+}
+
+.mypostcard{
+    Background:white;
+    font-family: "amita regular", cursive, sans-serif;
+    padding:40px 40px;
+}
+
+.header{
+    display:flex;
+}
+
+.content{
+    display:flex;
+    font-size:18px;
+}
+
+.title{
+    padding-right:100px;
+    font-size:25px;
+}
+
+.img{
+    padding-left:100px
+}
+
+.button{
+    padding-left:150px;
+    padding-right:150px;
+}
+
+button{
+    font-size:20px;
+    font-family: "Comic Sans MS", cursive, serif;
+    background: gray;
+}
+
